@@ -20,7 +20,7 @@ I'm a final-year **Data Science student** at **SAL College of Engineering, Ahmed
 - 💻 Tic Tech Toe '25 & '26 — DAIICT Hackathon Participant
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/aesha-patel/) | [Email](mailto:patelaesha023@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/aeshapatel23/) | [Email](mailto:patelaesha023@gmail.com)
 
 ---
 *Learning, building, and growing one project at a time.*
