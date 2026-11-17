@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aesha Patel! 👋
 
-<!--
-**Aesha023/Aesha023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **Data Science student** at **SAL College of Engineering, Ahmedabad**, passionate about transforming data into meaningful insights, building machine learning models, and solving real-world problems.
 
-Here are some ideas to get you started:
+🔍 **Open to Data Science & Machine Learning internships starting January 2027.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, Java, C
+- **ML & AI:** Scikit-learn, TensorFlow, XGBoost
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Tools:** Jupyter Notebook, Git, GitHub, Streamlit
+
+### 🚀 Featured Projects
+- **Businalyst** — Full-stack business analytics dashboard built with Django, React, and Pandas.
+- **AI-Powered Carbon Credit Platform** — AI and satellite imagery-based carbon credit verification platform.
+
+### 🏆 Achievements
+- 🥉 3rd Place — Design Engineering Competition
+- 📜 Deloitte Data Analytics Job Simulation
+- 💻 Tic Tech Toe '25 & '26 — DAIICT Hackathon Participant
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/aesha-patel/) | [Email](mailto:patelaesha023@gmail.com)
+
+---
+*Learning, building, and growing one project at a time.*
