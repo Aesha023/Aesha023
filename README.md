@@ -2,7 +2,7 @@
 
 I'm a final-year **Data Science student** at **SAL College of Engineering, Ahmedabad**, passionate about transforming data into meaningful insights, building machine learning models, and solving real-world problems.
 
-🔍 **Open to Data Science & Machine Learning internships starting January 2027.**
+🔍 **Open to Data Science & Machine Learning internships.**
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, SQL, Java, C
